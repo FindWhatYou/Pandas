@@ -49,9 +49,9 @@ Your analytical and business skills are needed to provide clarity in the followi
 - What is the time period that the dataset covers?
   - 01.2017 - 03.2018 (orders/orderlines)
 - What is the overall revenue for that time?
-  - 15Mio (filtered )
+  - 15
 - Are there seasonal patterns in the evolution of sales?
-  - Yes 20. November
+  - Yes, 20.11.2018
 - What are the most sold products?
   - Case
 - What are the products that generate the most revenue?
